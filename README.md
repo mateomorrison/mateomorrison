@@ -3,7 +3,7 @@
 Hello there 👋🏼! My name is Mateo Morrison Jr (call me mateo) and I want to code the world! About five years ago I asked myself:
 
 - 🤨 Can we 'code' our way out of some of the world's most complex problems?
-- 📈 Is it possible to growth hack a profitable bootstrap for multiple SaaS or small-businesses using a custom-built enterprise-grade corporate system?
+- 📈 Is it possible to growth hack and (profitably) bootstrap multiple SaaS or small-businesses using a custom-built enterprise-grade corporate system?
 
 The answer to both was yes! 👍 And you as developers may agree with me. Using my previous corporate and startup experience, I built Morrison Jr. & Co.,  a 'broke' private equity fund that builds, sells and buys apps and startups.
 
