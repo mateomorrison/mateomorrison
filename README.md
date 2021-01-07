@@ -1,8 +1,11 @@
-### Featured projects
+### Links
 
-
-<a href="https://github.com/mateomorrison/mateo/">
+<a href="https://github.com/mateomorrison/mateo/"  target="_blank">
 <img src="https://i.imgur.com/Iy5YgVy.png"/>
+</a>
+
+<a href="https://github.com/mateomorrison/mateo/"  target="_blank">
+<img src="https://i.imgur.com/FGBa37c.png"/>
 </a>
 
 ### Looking to 'code' the 🌎.
