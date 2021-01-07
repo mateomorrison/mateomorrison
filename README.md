@@ -1,6 +1,9 @@
 ### Featured projects
 
-![](https://i.imgur.com/Iy5YgVy.png)
+
+<a href="https://github.com/mateomorrison/mateo/">
+<img src="https://i.imgur.com/Iy5YgVy.png"/>
+</a>
 
 ### Looking to 'code' the 🌎.
 
