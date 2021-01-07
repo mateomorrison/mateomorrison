@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/Iy5YgVy.png"/>
 </a>
 
-<a href="https://github.com/mateomorrison/mateo/"  target="_blank">
+<a href="https://mateo.morrisonjr.com/?ref=github?where=readme"  target="_blank">
 <img src="https://i.imgur.com/FGBa37c.png"/>
 </a>
 
