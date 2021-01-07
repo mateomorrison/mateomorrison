@@ -1,3 +1,7 @@
+### Featured projects
+
+![](https://i.imgur.com/Iy5YgVy.png)
+
 ### Looking to 'code' the 🌎.
 
 Hello there 👋🏼! My name is Mateo Morrison Jr (call me mateo) and I want to code the world! About five years ago I asked myself:
