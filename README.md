@@ -1,4 +1,4 @@
-### Links
+##  Featured Links
 
 <a href="https://github.com/mateomorrison/mateo/"  target="_blank">
 <img src="https://i.imgur.com/Iy5YgVy.png"/>
@@ -8,7 +8,9 @@
 <img src="https://i.imgur.com/FGBa37c.png"/>
 </a>
 
-### Looking to 'code' the 🌎.
+
+## About Me
+###  Looking to 'code' the 🌎.
 
 Hello there 👋🏼! My name is Mateo Morrison Jr (call me mateo) and I want to code the world! About five years ago I asked myself:
 
