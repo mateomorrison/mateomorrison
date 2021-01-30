@@ -28,7 +28,7 @@
 - Webflow
 
 #### **data**
-- SQL ``postgres```
+- SQL ```postgres```
 - NoSQL ```mongodb + aws dynamodb + firebase```
 - R ```automation for Yang '20 and others...```
 
