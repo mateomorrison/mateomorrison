@@ -1,8 +1,24 @@
-## Mateo Morrison Jr.
-
+## Hi, I'm Mateo
+### Stats
 ![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=mateomorrison&count_private=true&show_icons=true&theme=radical)
 
+### About
 
-- 🔭 I’m currently working on fangoo, a free online store generator with worldwide payments & shipping -- built on the Eth blockchain, using custodian crypto/stable coin wallet & smart contracts on e-commerce sites
-- 🌱 I’m currently learning Next + Expo to create hybrid web & mobile apps, also use Next or React/Redux
-- 👯 I’m looking to collaborate on open-source projects that need help with styling, functionalities or anything in between. Contact m [at] morrisonjr [dot] com
+Full-stack web & mobile app developer.
+- 🔭 I’m currently working on fangoo, a set of blockchain apps to help expand businesses beyond limits & borders using smart contracts for startups, e-commerce, dropshipping, service & more... [read more...](https://fangoo.links/github)
+
+### Tech stack
+
+#### Web
+- React / Redux
+- Vue
+- Next / Next API
+
+#### Mobile (Android & iOS)
+- SwiftUI
+- Expo / React-Native
+
+#### Cloud
+- Azure
+- AWS / AWS Amplify
+- GCP / Firebase
