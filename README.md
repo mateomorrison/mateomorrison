@@ -5,20 +5,21 @@
 ### About
 
 Full-stack web & mobile app developer.
-- 🔭 I’m currently working on fangoo, a set of blockchain apps to help expand businesses beyond limits & borders using smart contracts for startups, e-commerce, dropshipping, service & more... [read more...](https://fangoo.links/github)
+- 🔭 I’m currently working on **fangoo**, a blockchain SaaS that helps side hustlers expand beyond limits & borders using smart contracts for e-commerce transactions... [learn more](https://fangoo.links/github)
 
 ### Tech stack
 
 #### Web
-- React / Redux
-- Vue
-- Next / Next API
+- React / Next
+- Express / Next API
 
 #### Mobile (Android & iOS)
-- SwiftUI
 - Expo / React-Native
+- SwiftUI
 
 #### Cloud
-- Azure
-- AWS / AWS Amplify
-- GCP / Firebase
+- Serverless / AWS Lambda
+- Azure / AWS / GCP
+- Firebase / AWS Amplify
+
+## For hire: m [at] morrisonjr [dot] com
