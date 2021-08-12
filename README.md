@@ -2,8 +2,8 @@
 ### About
 - Founder, CEO at [fangoo.app](https://fangoo.app)
 - Managing Partner at [mjr.co](https://morrisonjr.com)
-- Solutions Architect
 - Software Engineer
+- Solutions Architect
 ### Stats
 ![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=mateomorrison&count_private=true&show_icons=true&theme=radical)
 ### Tech stack
