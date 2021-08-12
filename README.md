@@ -1,30 +1,16 @@
-## Hi, I'm Mateo
+## Mateo Morrison Jr.
+### About
+- Founder, CEO at [fangoo.app](https://fangoo.app)
+- Managing Partner at [mjr.co](https://morrisonjr.com)
+- Solutions Architect
+- Software Engineer
 ### Stats
 ![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=mateomorrison&count_private=true&show_icons=true&theme=radical)
-
-### 
-
-Software Engineer
-Solutions Architect
-
-
-
-Full-stack web & mobile app developer.
-- 🔭 I’m currently working on **fangoo**, a blockchain SaaS that helps side hustlers expand beyond limits & borders using smart contracts for e-commerce transactions... [learn more](https://fangoo.links/github)
-
 ### Tech stack
-
-#### Web
-- React / Next
-- Express / Next API
-
-#### Mobile (Android & iOS)
-- Expo / React-Native
-- SwiftUI
-
-#### Cloud
-- Serverless / AWS Lambda
-- Azure / AWS / GCP
-- Firebase / AWS Amplify
-
-## For hire: m [at] morrisonjr [dot] com
+- React & Next
+- Express & Next API
+- React Native, SwiftUI & Expo (iOS, Android, Web)
+- AWS, Azure & GCP
+- Firebase & AWS Amplify
+### Contact
+m [at] mjr [dot] email
