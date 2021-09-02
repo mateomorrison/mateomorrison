@@ -1,9 +1,7 @@
 ## Mateo Morrison Jr.
 ### About
-- Founder, CEO at [fangoo.app](https://fangoo.app)
-- Managing Partner at [mjr.co](https://morrisonjr.com)
-- Software Engineer
-- Solutions Architect
+- Software Developer
+- IT Support
 ### Stats
 ![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=mateomorrison&count_private=true&show_icons=true&theme=radical)
 ### Tech stack
