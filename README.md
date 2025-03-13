@@ -1,3 +1,3 @@
 * IT Consultant at Tiger Global Management, LLC
-* Working on @mjrco
-* Building the future of e-commerce at @getfangoo
+* Working on Morrison Jr. & Co.
+* Building the future of e-commerce at fangoo
